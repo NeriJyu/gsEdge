@@ -6,7 +6,7 @@ Este projeto implementa um sistema de iluminação automática usando uma placa 
 
 ## Url do Projeto
 - [Wokwi](https://wokwi.com/projects/414398223169026049)
-- [Vídeo Explicativo]()
+- [Vídeo Explicativo](https://www.youtube.com/watch?v=c-JunqTGOkQ)
 
 ## Componentes Utilizados
 
